@@ -1,0 +1,30 @@
+.modal-header {
+    background-color: red; /* Primary color for header */
+    color: #ffffff; /* White text for readability */
+}
+
+.modal-body {
+    padding: 20px; /* Padding for the modal body */
+}
+
+.form-control {
+    border-radius: 0; /* Sharp corners for input fields */
+    border: 1px solid #ced4da; /* Match existing input styles */
+}
+
+.btn-primary {
+    background-color: red; /* Primary button color */
+    border: none; /* No border */
+}
+
+.btn-primary:hover {
+    background-color: rgb(175, 69, 69); /* Darker on hover */
+}
+
+a {
+    text-decoration: none; /* Remove underline from links */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover for better UX */
+}
